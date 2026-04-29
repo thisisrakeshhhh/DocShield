@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from "react";
+
+import  { useState, useEffect } from "react";
 import Header from "./Header";
 import Sidebar from "./SideBar";
 import StatsGrid from "./StatesGrid";
